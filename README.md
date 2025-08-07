@@ -6,7 +6,7 @@
     <img src="https://komarev.com/ghpvc/?username=Ery-15itie" alt="Ery-15itie" />
   </a>
   <a href="http://x.com/Ery_manabito5en">
-    <img height="20" src="https://img.shields.io/twitter/follow/Ery_manabito5en?label=Twitter&logo=twitter&style=flat" />
+    <img height="20" src="https://img.shields.io/X/follow/Ery_manabito5en?label=X&logo=X&style=flat" />
   </a>
 </p>
 
