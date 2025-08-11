@@ -13,8 +13,7 @@
   </a>
 </p>
 
-Top Languages Card
-https://github-readme-stats.vercel.app/api/top-langs/?username=Ery-15itie
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=Ery-15itie)
 
 <!--
 **Ery-15itie/Ery-15itie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
