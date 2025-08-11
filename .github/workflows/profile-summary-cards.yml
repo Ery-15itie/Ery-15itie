@@ -9,10 +9,12 @@ jobs:
   build:
     runs-on: ubuntu-latest
     name: generate
+    permissions:
+      contents: write
 
     steps:
       - uses: actions/checkout@v2
-      - uses: vn7n24fzkq/github-profile-summary-cards@release
+      - uses: Ery-15itie/github-profile-summary-cards@release
         env:
           GITHUB_TOKEN: ${{ secrets.README }}
         with:
