@@ -15,7 +15,7 @@
 
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=Ery-15itie&theme=solarized-light)
 ![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=Ery-15itie&theme=solarized-light)
-[![trophy](https://github-profile-trophy.vercel.app/?username=Ery-15itie&theme=solarized-light)
+![trophy](https://github-profile-trophy.vercel.app/?username=Ery-15itie&theme=solarized-light)
 
 <!--
 **Ery-15itie/Ery-15itie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
