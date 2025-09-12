@@ -18,9 +18,7 @@
 </p>
 
 ###### currentry using
-https://skillicons.dev/icons?i=github
-https://skillicons.dev/icons?i=discord
-https://skillicons.dev/icons?i=rails
+[![My Skills](https://skillicons.dev/icons?i=github,vscode,discord,docker,ruby,rails)](https://skillicons.dev)
 
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=Ery-15itie&theme=solarized-light)
 ![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=Ery-15itie&theme=solarized-light)
