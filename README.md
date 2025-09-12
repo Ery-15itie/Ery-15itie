@@ -21,11 +21,10 @@
 [![My Skills](https://skillicons.dev/icons?i=github,vscode,discord,docker,ruby,rails)](https://skillicons.dev)
 
 #### 📊 My Github Stats:
-<br/>
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=Ery-15itie&theme=solarized-light)
 ![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=Ery-15itie&theme=solarized-light)
 <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Ery-15itie&theme=solarized-light" />
-<br>
+
 
 <!--
 **Ery-15itie/Ery-15itie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
