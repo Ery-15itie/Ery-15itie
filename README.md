@@ -1,4 +1,6 @@
 ## Thanks for Visiting! 👋
+![Image](https://github.com/user-attachments/assets/c2fadd34-d4e8-43b4-acaa-a935daf9d2a0)
+
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Ery-15itie&theme=solarized-light)](https://github.com/ryo-ma/github-profile-trophy)
 
