@@ -1,5 +1,7 @@
 ## Thanks for Visiting! 👋
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=Ery-15itie&theme=solarized-light)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 <p align="left">
   <a href="https://github.com/Ery-15itie/Ery-15itie">
