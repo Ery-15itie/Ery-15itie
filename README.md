@@ -1,4 +1,7 @@
 ## Thanks for Visiting! 👋
+
+<img width="1153" height="375" alt="Image" src="https://github.com/user-attachments/assets/7febcd0a-73f5-46d6-bc59-7945485d0db3" />
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=Ery-15itie&theme=solarized-light)](https://github.com/ryo-ma/github-profile-trophy)
 
 
