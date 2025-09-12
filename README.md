@@ -1,4 +1,4 @@
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6AAB73&width=500&lines=Thanks+for;visiting;my+website!" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6AAB73&width=500&lines=Thanks+for+visiting+my+website!" />
 
 <img width="1153" height="375" alt="Image" src="https://github.com/user-attachments/assets/7febcd0a-73f5-46d6-bc59-7945485d0db3" />
 
