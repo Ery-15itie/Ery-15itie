@@ -14,9 +14,6 @@
   </a>
   <a href="http://x.com/Ery_manabito5en">
     <img height="20" src="https://img.shields.io/twitter/follow/Ery_manabito5en?label=X&logo=X&style=flat" />
-    <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Ery-15itie&theme=solarized-light" />
-  </a>
-  
 </p>
 
 
@@ -25,6 +22,8 @@
 
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=Ery-15itie&theme=solarized-light)
 ![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=Ery-15itie&theme=solarized-light)
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Ery-15itie&theme=solarized-light" />
+  </a>
 
 <!--
 **Ery-15itie/Ery-15itie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
