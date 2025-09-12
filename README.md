@@ -14,7 +14,9 @@
   </a>
   <a href="http://x.com/Ery_manabito5en">
     <img height="20" src="https://img.shields.io/twitter/follow/Ery_manabito5en?label=X&logo=X&style=flat" />
+    <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Ery-15itie&theme=solarized-light" />
   </a>
+  
 </p>
 
 
