@@ -25,9 +25,6 @@
 ![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=Ery-15itie&theme=solarized-light)
 <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Ery-15itie&theme=solarized-light" />
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ery-15itie&theme=2077)
-
-
 
 <!--
 **Ery-15itie/Ery-15itie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
